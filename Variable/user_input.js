@@ -1,4 +1,18 @@
-/*Asking a user to enter a number in javascript and then doing some operations with them
-1.we are going to make use of the const data type with caanot be changed when used
-2.To ask a user to enter a number we make use of prompt();
-3.And we will need to convert the number into an interger so we will us parseInt to convert the input to a number*/
+/*Asking a user to enter a name in  javascript 
+1.we are going to make use of the const data type with cannot be changed when used
+2.To ask a user to enter a number we make use of require on the command line;,but for the webrowser we use prompt() 
+*/
+const readline = require("readline");
+
+const num1 = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+});
+
+num1.question("what is Your name ", function (answer) {
+    console.log(`Your name is ${answer}`);
+    console.log("closing the interface..........")
+    num1.close();
+});
+
+
