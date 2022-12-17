@@ -10,9 +10,9 @@
  var sum = a + b;
  var div = d/e;
  var mul = a * b
- console.log(`The sum of ${a} + ${b} = ${sum}`);
- console.log(`Division ${d} / ${e} = ${div}`);
- console.log(`Multiplication ${a} * ${b} = ${mul}`);
+ console.log(`The sum of ${a} + ${b} = ${sum}`);//The sum of 64 + 75 = 139
+ console.log(`Division ${d} / ${e} = ${div}`);//Division 64 / 8 = 8
+ console.log(`Multiplication ${a} * ${b} = ${mul}`);//Multiplication 64 * 75 = 4800
  
 
 

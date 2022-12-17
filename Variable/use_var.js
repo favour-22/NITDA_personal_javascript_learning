@@ -15,7 +15,7 @@ Age = 5;
 Colour = "Blue"
 
   //We can access the element of each variable using console.log()
-console.log("My name is",Name)
-console.log("I am " + Age,"Years old ")
-console.log("My best colur is ",Colour)
+console.log("My name is",Name)//My name is Favour
+console.log("I am " + Age,"Years old ")//I am 5 Years old 
+console.log("My best colur is ",Colour)//My best colur is  Blue
  
