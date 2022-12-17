@@ -1,5 +1,5 @@
 # <c>INTRODUCTION TO VARIABLES</c>
 
 ### Focus
-learn all about the javascript prog 
 
+learn all about javascript Variables

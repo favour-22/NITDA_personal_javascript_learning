@@ -1,3 +1,4 @@
+
 /*Variables are what make up most of JavaScript. 
 These variables make up things from numbers to objects, which are
 all over JavaScript to make one's life much easier.*/
