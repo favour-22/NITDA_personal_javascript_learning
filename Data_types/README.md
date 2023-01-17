@@ -1,1 +1,1 @@
-## <b>Basic</b> data types in javascript
+## <b>Basic</b> data types in JAVASCRIPT:
